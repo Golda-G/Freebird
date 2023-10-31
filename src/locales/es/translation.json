@@ -1,0 +1,17 @@
+{
+    "Signup": "Inscribirse",
+    "Profile": "Crear perfil",
+    "Login":"Acceso",
+    "Username": {
+        "label": "Nombre de usuario"
+    },
+    "Password": {
+        "label": "Contraseña"
+        
+    },
+    "Email": {
+        "label":"Correo electrónico"
+    },
+    "Visible":"Este nombre será visible solo para ti",
+    "Eightchar":"Debe tener al menos ocho caracteres de longitud"
+}

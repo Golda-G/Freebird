@@ -1,0 +1,17 @@
+{
+    "Signup": "SIGN UP",
+    "Profile": "CREATE PROFILE",
+    "Login":"LOG IN",
+    "Username": {
+        "label": "Username"
+    },
+    "Password": {
+        "label": "Password"
+        
+    },
+    "Email": {
+        "label":"Email"
+    },
+    "Visible":"This name will be available to only you",
+    "Eightchar":"Should be at least eight characters in length"
+}
